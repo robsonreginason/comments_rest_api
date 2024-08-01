@@ -1,13 +1,3 @@
-# COMMENTS.md
-
-## Histórico de Decisões e Comentários
-
-### Introdução
-
-Este projeto envolve a criação e implantação de uma API de Comentários usando Flask, com infraestrutura automatizada e CI/CD. O objetivo é fornecer uma solução eficiente e escalável para o gerenciamento de comentários em matérias. A seguir, detalhamos as decisões técnicas, mudanças de plano, ideias para melhorias futuras e considerações de testes e qualidade.
-
-### Decisões Importantes
-
 #### Escolha de Tecnologias
 
 1. **Flask**: Escolhido pela sua simplicidade e flexibilidade, permitindo o desenvolvimento rápido de APIs RESTful. A documentação rica e a vasta comunidade de suporte foram fatores decisivos.
@@ -164,9 +154,4 @@ scrape_configs:
 
 ### Notas Adicionais
 
-- **Documentação**: A API foi documentada usando Swagger, permitindo testes interativos e facilitando a integração de novos desenvolvedores.
 - **Manutenção e Atualizações**: Estabelecer um cronograma regular para atualizações de segurança e manutenção, garantindo a estabilidade e a segurança da aplicação.
-
-### Conclusão
-
-Este projeto destaca a importância de uma abordagem bem estruturada para o desenvolvimento e operação de aplicações web. A automação de infraestrutura e deploy, juntamente com um sistema robusto de monitoramento, garante uma operação eficiente e confiável. A documentação detalhada e as práticas de desenvolvimento ágil são essenciais para o sucesso e a manutenção a longo prazo do sistema.
